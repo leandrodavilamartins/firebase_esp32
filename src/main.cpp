@@ -24,7 +24,7 @@
 
 // Insert your network credentials
 #define WIFI_SSID "Mi Phone"
-#define WIFI_PASSWORD "j6h6v2e2"
+#define WIFI_PASSWORD ""
 
 // Insert Firebase project API Key
 #define API_KEY "AIzaSyDkVzBpA1wr7fV8Y4v6J6jS06JzdVIRs54"
